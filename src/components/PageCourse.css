@@ -1,0 +1,70 @@
+.PageCourse {
+  display: flex;
+  justify-content: center;
+  margin-top: 80px;
+}
+
+.PageCourse-dashboard {
+  width: 1079px;
+  height: 328px;
+  left: 181px;
+  top: 118px;
+  background: #ffffff;
+  box-shadow: 0px 24px 124px -20px rgba(122, 137, 148, 0.27);
+  border-radius: 10px;
+}
+
+.PageCourse-dashboard-search {
+  margin-left: 50px;
+  margin-top: 26px;
+}
+
+.PageCourse-dashboard-xtext {
+  font-weight: 500;
+  font-size: 30px;
+  line-height: 35px;
+  letter-spacing: 0.01em;
+  color: #000000;
+  margin-left: 50px;
+  margin-top: 14px;
+}
+
+.PageCourse-dashboard-xxtext {
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 28px;
+  color: #667085;
+  margin-left: 50px;
+  margin-top: 15px;
+}
+.PageCourse-dashboard-harsea {
+  display: flex;
+  align-items: center;
+  margin-left: 50px;
+  margin-top: 19px;
+}
+.PageCourse-dashboard-har {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 182px;
+  height: 49px;
+  background: rgba(94, 198, 157, 0.1);
+  border-radius: 6px;
+  color: #5ec69d;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.01em;
+}
+
+.PageCourse-dashboard-sea {
+  display: flex;
+  align-items: center;
+  width: 404px;
+  height: 49px;
+  background: #ffffff;
+  border: 1px solid #e2eef8;
+  border-radius: 8.16667px;
+  margin-left: 15px;
+}

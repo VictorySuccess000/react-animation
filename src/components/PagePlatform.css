@@ -1,0 +1,18 @@
+.PagePlatform {
+  flex-direction: row;
+}
+
+.PagePlatform-left {
+  margin-left: 350px;
+  margin-top: 154px;
+}
+
+.PagePlatform-left-xtest {
+  font-size: 30px;
+  margin-top: 24px;
+}
+
+.PagePlatform-left-textItem {
+  margin-top: 24px;
+  margin-left: 10px;
+}

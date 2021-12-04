@@ -1,0 +1,9 @@
+export const PAGE_ONE = "p1";
+export const PAGE_TWO = "p2";
+export const PAGE_THREE = "p3";
+export const PAGE_FOUR = "p4";
+export const PAGE_FIVE = "p5";
+export const PAGE_SIX = "p6";
+export const PAGE_SEVEN = "p7";
+export const PAGE_EIGHT = "p8";
+export const PAGE_NINE = "p9";

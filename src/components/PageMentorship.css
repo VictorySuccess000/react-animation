@@ -1,0 +1,54 @@
+.PageMentorship {
+  margin-top: 148px;
+  flex-direction: column;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.PageMentorship-xtitle {
+  text-align: center;
+  color: #5ec69d;
+  font-size: 15px;
+  font-weight: 500;
+}
+.PageMentorship-xxtitle {
+  width: 619px;
+  font-size: 55px;
+  text-align: center;
+  font-weight: bold;
+  letter-spacing: -0.02em;
+  color: #101828;
+}
+.PageMentorship-xxxtitle {
+  width: 803px;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: -0.02em;
+  color: #667085;
+  margin-top: 25px;
+}
+.PageMentorship-btnItem {
+  margin-top: 25px;
+}
+
+.PageMentorship-btnItem-gs {
+  padding: 10px 18px;
+  position: static;
+  background: #5ec69d;
+  border: 1px solid #5ec69d;
+  box-shadow: 0px 1px 2px rgba(16, 24, 40, 0.05);
+  border-radius: 8px;
+  color: white;
+}
+
+.PageMentorship-btnItem-hiw {
+  padding: 10px 18px;
+  position: static;
+  border: 1px dotted grey;
+  box-shadow: 0px 1px 2px rgba(16, 24, 40, 0.05);
+  border-radius: 8px;
+}
+
+.PageMentorship-frame {
+  margin-top: 60.17px;
+}

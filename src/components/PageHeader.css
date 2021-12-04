@@ -1,0 +1,109 @@
+.PageHeader-title {
+  width: 100wh;
+  height: 52px;
+  color: #fff;
+  background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+  background-size: 400% 400%;
+  -webkit-animation: Gradient 15s ease infinite;
+  -moz-animation: Gradient 15s ease infinite;
+  animation: Gradient 15s ease infinite;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.PageHeader-title-text {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 16px;
+}
+
+.PageHeader-nav {
+  margin: 20.5px 112px;
+  border: 1px solid blue;
+  display: flex;
+  align-items: center;
+}
+
+.PageHeader-nav-logo {
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+}
+
+.PageHeader-nav-logoPic {
+  border: 1px solid blue;
+}
+
+.PageHeader-nav-logoText {
+  margin-left: 9px;
+  font-size: 30px;
+  color: #5ec69d;
+  border: 1px solid blue;
+}
+
+.PageHeader-nav-menu {
+  margin-left: 40px;
+  border: 1px solid blue;
+}
+
+.PageHeader-nav-item {
+  margin-left: 32px;
+  font-size: 16px;
+  font-weight: 500;
+  cursor: pointer;
+}
+
+.PageHeader-nav-btnLogin {
+  width: 100px;
+  height: 44px;
+  border-radius: 8px;
+  padding: 10px 18px;
+  border: 1px dotted grey;
+}
+
+.PageHeader-nav-btnRegister {
+  width: 100px;
+  height: 44px;
+  border-radius: 8px;
+  padding: 10px 18px;
+  border: 1px solid #5ec69d;
+  background: #5ec69d;
+  color: white;
+}
+
+@-webkit-keyframes Gradient {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+@-moz-keyframes Gradient {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+@keyframes Gradient {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
